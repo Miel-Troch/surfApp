@@ -7,9 +7,9 @@ import { CssBaseline } from '@mui/material'
 // Create a theme instance.
 const theme = createTheme({
 	palette: {
-		primary: {
-			main: '#CAE5EB'
-		}
+		primary: { main: '#CAE5EB' },
+		secondary: { main: '#E7A201' },
+		text: { primary: '#012333' }
 	},
 	typography: {
 		fontFamily: ['Montserrat', 'sans-serif'].join(',')
@@ -18,12 +18,12 @@ const theme = createTheme({
 		MuiPaper: {
 			styleOverrides: {
 				root: {
-					boxShadow: 'none', // Remove the default box shadow
-					border: '1px solid rgba(0, 0, 0, 0.12)' // Add border for the outlined variant
+					boxShadow: 'none',
+					border: '1px solid rgba(0, 0, 0, 0.12)'
 				}
 			},
 			defaultProps: {
-				variant: 'outlined' // Set the default variant to outlined
+				variant: 'outlined'
 			}
 		}
 	}

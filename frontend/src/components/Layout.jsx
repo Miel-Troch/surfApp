@@ -1,15 +1,8 @@
 import { useState } from 'react'
 import { Outlet, useNavigate } from 'react-router-dom'
 import { styled, alpha } from '@mui/material/styles'
-import AppBar from '@mui/material/AppBar'
-import Box from '@mui/material/Box'
-import Toolbar from '@mui/material/Toolbar'
-import IconButton from '@mui/material/IconButton'
-import InputBase from '@mui/material/InputBase'
-import MenuItem from '@mui/material/MenuItem'
-import Menu from '@mui/material/Menu'
-import SearchIcon from '@mui/icons-material/Search'
-import AccountCircle from '@mui/icons-material/AccountCircle'
+import { AppBar, Toolbar, Box, Button, IconButton, Menu, MenuItem, InputBase } from '@mui/material'
+import { Search as SearchIcon, AccountCircle } from '@mui/icons-material'
 
 const Search = styled('div')(({ theme }) => ({
 	position: 'relative',
@@ -42,7 +35,6 @@ const StyledInputBase = styled(InputBase)(({ theme }) => ({
 	color: 'inherit',
 	'& .MuiInputBase-input': {
 		padding: theme.spacing(1, 1, 1, 0),
-		// vertical padding + font size from searchIcon
 		paddingLeft: `calc(1em + ${theme.spacing(4)})`,
 		transition: theme.transitions.create('width'),
 		width: '100%',
@@ -74,11 +66,27 @@ export default function Layout() {
 							component='img'
 							src='/logo.webp'
 							alt='Logo'
-							sx={{ height: '70px' }}
+							sx={{ height: '70px', mr: 2 }}
 							onClick={() => {
 								navigate('/')
 							}}
 						/>
+						<Button
+							onClick={() => {
+								navigate('/spots')
+							}}
+							sx={{ px: 2, color: 'text.secondary', display: 'block' }}
+						>
+							Surf Spots
+						</Button>
+						<Button
+							onClick={() => {
+								navigate('/map')
+							}}
+							sx={{ px: 2, color: 'text.secondary', display: 'block' }}
+						>
+							Map
+						</Button>
 						<Search>
 							<SearchIconWrapper>
 								<SearchIcon />
@@ -113,8 +121,22 @@ export default function Layout() {
 					open={isMenuOpen}
 					onClose={handleMenuClose}
 				>
-					<MenuItem onClick={handleMenuClose}>Profile</MenuItem>
-					<MenuItem onClick={handleMenuClose}>Settings</MenuItem>
+					<MenuItem
+						onClick={() => {
+							handleMenuClose
+							navigate('profile')
+						}}
+					>
+						Profile
+					</MenuItem>
+					<MenuItem
+						onClick={() => {
+							handleMenuClose
+							navigate('settings')
+						}}
+					>
+						Settings
+					</MenuItem>
 				</Menu>
 			</Box>
 			<Outlet />

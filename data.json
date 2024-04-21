@@ -1,0 +1,544 @@
+{
+	"africa": [
+		{
+			"continent": 1,
+			"name": "Ghana",
+			"spots": [
+				{
+					"name": "Busua Beach",
+					"type": "Beach break",
+					"direction": "Right & left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "4.807319906323846",
+					"long": "-1.9363186489539035"
+				},
+				{
+					"name": "The Point",
+					"type": "Beach break",
+					"direction": "Right & left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "5.494471817359864",
+					"long": "-0.36573837356408756"
+				},
+				{
+					"name": "Till's",
+					"type": "Beach break",
+					"direction": "Right & left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "5.414413443115698",
+					"long": "-0.4679805572306528"
+				},
+				{
+					"name": "White Sands Point",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Sand & Rock",
+					"difficulty": "Advanced",
+					"quality_rating": 4,
+					"lat": "5.41860387599084",
+					"long": "-0.46235517166610995"
+				}
+			]
+		},
+		{
+			"continent": 1,
+			"name": "Madagascar",
+			"spots": [
+				{
+					"name": "Flameballs",
+					"type": "Reef break",
+					"direction": "left",
+					"bottom": "Boulders",
+					"difficulty": "Advanced",
+					"quality_rating": 4,
+					"lat": "-23.647244951918996",
+					"long": "43.599186048552255"
+				},
+				{
+					"name": "Lavanono",
+					"type": "Reef break",
+					"direction": "left",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-25.429297466315802",
+					"long": "44.936442397602356"
+				},
+				{
+					"name": "Libanono",
+					"type": "Beach break",
+					"direction": "Right & left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 2,
+					"lat": "-25.091866909482878",
+					"long": "46.88993140230604"
+				},
+				{
+					"name": "Monseigneur",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 2,
+					"lat": "-25.030593623606656",
+					"long": "47.003662955941124"
+				}
+			]
+		},
+		{
+			"continent": 1,
+			"name": "Mauritius",
+			"spots": [
+				{
+					"name": "Tamarin Bay",
+					"type": "Reef break",
+					"direction": "left",
+					"bottom": "Coral reef",
+					"difficulty": "Advanced",
+					"quality_rating": 3,
+					"lat": "-20.32798125834922",
+					"long": "57.370090408054"
+				}
+			]
+		},
+		{
+			"continent": 1,
+			"name": "Morocco",
+			"spots": [
+				{
+					"name": "Anchor Point",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Sand & Rock",
+					"difficulty": "Advanced",
+					"quality_rating": 5,
+					"lat": "30.54479879508742",
+					"long": "-9.72795109766584"
+				},
+				{
+					"name": "Banana point",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Sand & Rock",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "30.502099708803886",
+					"long": "-9.685907649952082"
+				},
+				{
+					"name": "Boilers",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Rocky reef",
+					"difficulty": "Advanced",
+					"quality_rating": 4,
+					"lat": "30.62711003215457",
+					"long": "-9.8883817582402"
+				},
+				{
+					"name": "Cherry",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Boulders",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "30.353145211909514",
+					"long": "-9.615483451860436"
+				},
+				{
+					"name": "Cro Cro",
+					"type": "Beach break",
+					"direction": "Right & left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "30.513087940883246",
+					"long": "-9.689211991096315"
+				},
+				{
+					"name": "Dahomey",
+					"type": "Beach break",
+					"direction": "Right & left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "33.80841224413797",
+					"long": "-7.188620292301489"
+				},
+				{
+					"name": "Desert Point",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Sand & Rock",
+					"difficulty": "Advanced",
+					"quality_rating": 3,
+					"lat": "30.62260566925609",
+					"long": "-9.817356797937446"
+				},
+				{
+					"name": "Devil's Rock",
+					"type": "Beach break",
+					"direction": "Right & left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 1,
+					"lat": "30.50461509669319",
+					"long": "-9.686057240524685"
+				},
+				{
+					"name": "Draculas",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Sand & Rock",
+					"difficulty": "Advanced",
+					"quality_rating": 5,
+					"lat": "30.620758453762075",
+					"long": "-9.865507945093865"
+				},
+				{
+					"name": "Hash Point",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Sand & Rock",
+					"difficulty": "Beginners",
+					"quality_rating": 4,
+					"lat": "30.544220510911146",
+					"long": "-9.727277539679347"
+				},
+				{
+					"name": "Imsouane",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 4,
+					"lat": "30.83743411996951",
+					"long": "-9.820396850148253"
+				},
+				{
+					"name": "Killer Point",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Sand & Rock",
+					"difficulty": "Advanced",
+					"quality_rating": 5,
+					"lat": "30.55045385730277",
+					"long": "-9.740709812875302"
+				},
+				{
+					"name": "Killers Beach",
+					"type": "Beach break",
+					"direction": "Right",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "30.409652839644753",
+					"long": "-9.604925886434376"
+				},
+				{
+					"name": "Oudaya",
+					"type": "Rivermouth",
+					"direction": "Right & left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "34.035418682444785",
+					"long": "-6.837926262653162"
+				},
+				{
+					"name": "Panorama",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "30.54236056051201",
+					"long": "-9.709488045420816"
+				},
+				{
+					"name": "Safi",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Rocky reef",
+					"difficulty": "Advanced",
+					"quality_rating": 5,
+					"lat": "32.310095100411864",
+					"long": "-9.263706373731006"
+				},
+				{
+					"name": "Sidi kaouki",
+					"type": "Point break",
+					"direction": "Right & left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Intermediate",
+					"quality_rating": 2,
+					"lat": "31.384570686574776",
+					"long": "-9.831540234713009"
+				},
+				{
+					"name": "Tamri",
+					"type": "Reef break",
+					"direction": "Right & left",
+					"bottom": "Sand",
+					"difficulty": "Advanced",
+					"quality_rating": 1,
+					"lat": "30.711014022752497",
+					"long": "-9.860411447803651"
+				},
+				{
+					"name": "Unicorns",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Rocky reef",
+					"difficulty": "Advanced",
+					"quality_rating": 5,
+					"lat": "30.623133728471828",
+					"long": "-9.869379291299891"
+				}
+			]
+		},
+		{
+			"continent": 1,
+			"name": "Mozambique",
+			"spots": [
+				{
+					"name": "Tofinho Point",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 5,
+					"lat": "-23.864116997845546",
+					"long": "35.553367263799814"
+				}
+			]
+		},
+		{
+			"continent": 1,
+			"name": "Namibia",
+			"spots": [
+				{
+					"name": "Skeleton Bay",
+					"type": "Point break",
+					"direction": "Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 0,
+					"lat": "-22.933718085616665",
+					"long": "14.410292675768611"
+				}
+			]
+		},
+		{
+			"continent": 1,
+			"name": "Reunion",
+			"spots": [
+				{
+					"name": "St Gilles Les Baines",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-21.052218077897212",
+					"long": "55.21672753189158"
+				},
+				{
+					"name": "The Cafrine",
+					"type": "Reef break",
+					"direction": "Right & left",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-21.173377685910705",
+					"long": "55.28297225855951"
+				},
+				{
+					"name": "Trois Bassins",
+					"type": "Reef break",
+					"direction": "Right & left",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-21.111435310870295",
+					"long": "55.2502689517338"
+				}
+			]
+		},
+		{
+			"continent": 1,
+			"name": "Senegal",
+			"spots": [
+				{
+					"name": "NGor right",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Rocky reef",
+					"difficulty": "Advanced",
+					"quality_rating": 4,
+					"lat": "14.755379270163848",
+					"long": "-17.51763615149488"
+				},
+				{
+					"name": "Virage",
+					"type": "Beach break",
+					"direction": "Right & left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "14.762603651414675",
+					"long": "-17.488724107449098"
+				},
+				{
+					"name": "Yoff Plage",
+					"type": "Beach break",
+					"direction": "Right & left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "14.764985321536049",
+					"long": "-17.461352553266973"
+				}
+			]
+		},
+		{
+			"continent": 1,
+			"name": "South Africa",
+			"spots": [
+				{
+					"name": "Big Bay",
+					"type": "Point break",
+					"direction": "Right & left",
+					"bottom": "Sand",
+					"difficulty": "Advanced",
+					"quality_rating": 4,
+					"lat": "-33.797501558790906",
+					"long": "18.453342466712602"
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		},
+		{
+			"continent": 1,
+			"name": "Tunisia",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		}
+	],
+	"asia": [
+		{
+			"continent": 2,
+			"name": "",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		}
+	],
+	"europa": [
+		{
+			"continent": 3,
+			"name": "",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		}
+	],
+	"nordAmerica": [
+		{
+			"continent": 4,
+			"name": "",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		}
+	],
+	"southAmerica": [
+		{
+			"continent": 5,
+			"name": "",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		}
+	],
+	"oceania": [
+		{
+			"continent": 6,
+			"name": "",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		}
+	]
+}

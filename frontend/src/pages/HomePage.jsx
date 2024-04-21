@@ -1,6 +1,6 @@
 import { Typography } from '@mui/material'
 
-const Home = () => {
+const HomePage = () => {
 	return (
 		<>
 			<Typography>Home</Typography>
@@ -8,4 +8,4 @@ const Home = () => {
 	)
 }
 
-export default Home
+export default HomePage
