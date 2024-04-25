@@ -431,7 +431,8 @@
 					"quality_rating": 5,
 					"lat": "-34.059429399421255",
 					"long": "18.32767071926192"
-				},{
+				},
+				{
 					"name": "Long Beach",
 					"type": "Beach break",
 					"direction": "Right & Left",
@@ -440,7 +441,8 @@
 					"quality_rating": 4,
 					"lat": "-34.13569386915084",
 					"long": "18.327534575871184"
-				},{
+				},
+				{
 					"name": "Muizenberg",
 					"type": "Beach break",
 					"direction": "Right & Left",
@@ -449,7 +451,8 @@
 					"quality_rating": 4,
 					"lat": "-34.10944084110007",
 					"long": "18.47673198229261"
-				},{
+				},
+				{
 					"name": "Pipe",
 					"type": "Beach break",
 					"direction": "Right & Left",
@@ -458,7 +461,8 @@
 					"quality_rating": 3,
 					"lat": "-34.106783686598106",
 					"long": "18.812559191706303"
-				},{
+				},
+				{
 					"name": "Sunrise Beach",
 					"type": "Beach break",
 					"direction": "Right",
@@ -467,7 +471,8 @@
 					"quality_rating": 2,
 					"lat": "-34.10595112684377",
 					"long": "18.495637623592962"
-				},{
+				},
+				{
 					"name": "Addington",
 					"type": "Beach break",
 					"direction": "Right & Left",
@@ -476,7 +481,8 @@
 					"quality_rating": 3,
 					"lat": "-29.860462169688873",
 					"long": "31.046377867892165"
-				},{
+				},
+				{
 					"name": "Ansteys",
 					"type": "Reef break",
 					"direction": "Right & Left",
@@ -485,7 +491,8 @@
 					"quality_rating": 3,
 					"lat": "-29.925697257609094",
 					"long": "31.02077761846255"
-				},{
+				},
+				{
 					"name": "Cave Rock",
 					"type": "Reef break",
 					"direction": "Right",
@@ -494,7 +501,8 @@
 					"quality_rating": 5,
 					"lat": "-29.936691691116813",
 					"long": "31.0109198868544"
-				},{
+				},
+				{
 					"name": "Gazals",
 					"type": "Reef break",
 					"direction": "Right",
@@ -503,7 +511,8 @@
 					"quality_rating": 4,
 					"lat": "-29.74333003259866",
 					"long": "31.08175986893985"
-				},{
+				},
+				{
 					"name": "New Pier",
 					"type": "Beach break",
 					"direction": "Right & Left",
@@ -512,7 +521,8 @@
 					"quality_rating": 4,
 					"lat": "-29.84995934269375",
 					"long": "31.04188317825658"
-				},{
+				},
+				{
 					"name": "Scottburgh",
 					"type": "Beach break",
 					"direction": "Right & Left",
@@ -521,7 +531,8 @@
 					"quality_rating": 3,
 					"lat": "-30.291552738505285",
 					"long": "30.76026032113768"
-				},{
+				},
+				{
 					"name": "Beach Ballito",
 					"type": "Beach break",
 					"direction": "Right & Left",
@@ -530,7 +541,8 @@
 					"quality_rating": 3,
 					"lat": "-29.547343987671685",
 					"long": "31.215934708952297"
-				},{
+				},
+				{
 					"name": "Nahoon Reef",
 					"type": "Reef break",
 					"direction": "Right",
@@ -539,7 +551,8 @@
 					"quality_rating": 4,
 					"lat": "-32.99831590310413",
 					"long": "27.954540317449993"
-				},{
+				},
+				{
 					"name": "Cape Infanta",
 					"type": "Point break",
 					"direction": "Right",
@@ -548,7 +561,8 @@
 					"quality_rating": 3,
 					"lat": "-34.43904151829694",
 					"long": "20.879687023607136"
-				},{
+				},
+				{
 					"name": "Cape St Francis",
 					"type": "Point break",
 					"direction": "Right",
@@ -557,7 +571,8 @@
 					"quality_rating": 4,
 					"lat": "-34.187994689915485",
 					"long": "24.860731778665507"
-				},{
+				},
+				{
 					"name": "Kitchen Windows",
 					"type": "Reef break",
 					"direction": "Right & Left",
@@ -566,7 +581,8 @@
 					"quality_rating": 4,
 					"lat": "-34.06092405374473",
 					"long": "24.929352201257746"
-				},{
+				},
+				{
 					"name": "Supertubes",
 					"type": "Point break",
 					"direction": "Right",
@@ -575,7 +591,8 @@
 					"quality_rating": 5,
 					"lat": "-34.032764541066456",
 					"long": "24.936175721568365"
-				},{
+				},
+				{
 					"name": "Boilers",
 					"type": "Breakwater",
 					"direction": "Left",
@@ -584,7 +601,8 @@
 					"quality_rating": 4,
 					"lat": "-34.03149217885926",
 					"long": "25.682001299086412"
-				},{
+				},
+				{
 					"name": "Fence",
 					"type": "Breakwater",
 					"direction": "Right & Left",
@@ -593,7 +611,8 @@
 					"quality_rating": 3,
 					"lat": "-33.963848385543116",
 					"long": "25.648141562195097"
-				},{
+				},
+				{
 					"name": "Look out",
 					"type": "Reef break",
 					"direction": "Right & Left",
@@ -602,7 +621,8 @@
 					"quality_rating": 3,
 					"lat": "-34.04290324384761",
 					"long": "25.641922867291786"
-				},{
+				},
+				{
 					"name": "Millers",
 					"type": "Point break",
 					"direction": "Right",
@@ -611,7 +631,8 @@
 					"quality_rating": 2,
 					"lat": "-33.97872583575285",
 					"long": "25.659599341151022"
-				},{
+				},
+				{
 					"name": "Pipe",
 					"type": "Beach break",
 					"direction": "Right & Left",
@@ -620,7 +641,8 @@
 					"quality_rating": 1,
 					"lat": "-33.98718013801664",
 					"long": "25.6783555170811"
-				},{
+				},
+				{
 					"name": "Voelklip Beach",
 					"type": "Beach break",
 					"direction": "Right",
@@ -629,7 +651,8 @@
 					"quality_rating": 3,
 					"lat": "-34.39265000413879",
 					"long": "19.108291791264833"
-				},{
+				},
+				{
 					"name": "",
 					"type": "",
 					"direction": "",
@@ -638,7 +661,8 @@
 					"quality_rating": 0,
 					"lat": "",
 					"long": ""
-				},{
+				},
+				{
 					"name": "",
 					"type": "",
 					"direction": "",
@@ -647,7 +671,8 @@
 					"quality_rating": 0,
 					"lat": "",
 					"long": ""
-				},{
+				},
+				{
 					"name": "",
 					"type": "",
 					"direction": "",
@@ -656,7 +681,8 @@
 					"quality_rating": 0,
 					"lat": "",
 					"long": ""
-				},{
+				},
+				{
 					"name": "",
 					"type": "",
 					"direction": "",
@@ -665,7 +691,8 @@
 					"quality_rating": 0,
 					"lat": "",
 					"long": ""
-				},{
+				},
+				{
 					"name": "",
 					"type": "",
 					"direction": "",
@@ -674,7 +701,8 @@
 					"quality_rating": 0,
 					"lat": "",
 					"long": ""
-				},{
+				},
+				{
 					"name": "",
 					"type": "",
 					"direction": "",
@@ -691,6 +719,580 @@
 			"name": "Tunisia",
 			"spots": [
 				{
+					"name": "Bizerte Corniche",
+					"type": "Beach break",
+					"direction": "Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "37.31975679422829",
+					"long": "9.868489624163272"
+				},
+				{
+					"name": "Hamamet Yasmine",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "36.356886151832114",
+					"long": "10.538506821585935"
+				},
+				{
+					"name": "La Coupole",
+					"type": "Beach break",
+					"direction": "Right",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 2,
+					"lat": "36.89413275654219",
+					"long": "10.33422390121984"
+				},
+				{
+					"name": "La Droite du Fort",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Rocky reef",
+					"difficulty": "Advanced",
+					"quality_rating": 4,
+					"lat": "36.96501919017957",
+					"long": "8.755265086632773"
+				}
+			]
+		}
+	],
+	"asia": [
+		{
+			"continent": 2,
+			"name": "China",
+			"spots": [
+				{
+					"name": "Riyuewan Beach",
+					"type": "Beach break",
+					"direction": "Right",
+					"bottom": "Sand & Rock",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "18.558863625982333",
+					"long": "110.15043110551606"
+				},
+				{
+					"name": "Shilaoren",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "36.08892911688724",
+					"long": "120.46730128532002"
+				}
+			]
+		},
+		{
+			"continent": 2,
+			"name": "Indonesia",
+			"spots": [
+				{
+					"name": "Balangan",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-8.791800966774797",
+					"long": "115.12242679753334"
+				},
+				{
+					"name": "Bingin",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 5,
+					"lat": "-8.801446406125741",
+					"long": "115.1162301349982"
+				},
+				{
+					"name": "Canggu",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-8.661172283490359",
+					"long": "115.1310971801916"
+				},
+				{
+					"name": "Coral baeh",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 2,
+					"lat": "-8.388994282859484",
+					"long": "114.5684388144627"
+				},
+				{
+					"name": "Dreamland",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Boulders",
+					"difficulty": "Beginners",
+					"quality_rating": 5,
+					"lat": "-8.799264588745872",
+					"long": "115.11709564797538"
+				},
+				{
+					"name": "Impossibles",
+					"type": "Point break",
+					"direction": "Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 5,
+					"lat": "-8.806366929112968",
+					"long": "115.10977753196039"
+				},
+				{
+					"name": "Keramas",
+					"type": "Rivermouth",
+					"direction": "Right",
+					"bottom": "Sand & Rock",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-8.599324451705185",
+					"long": "115.33777307999372"
+				},
+				{
+					"name": "Kuta Beach",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-8.719800208365688",
+					"long": "115.16798637012175"
+				},
+				{
+					"name": "Kuta Reef",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-8.735524497698016",
+					"long": "115.15827612465571"
+				},
+				{
+					"name": "Medewi",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Beginners",
+					"quality_rating": 4,
+					"lat": "-8.408020837138963",
+					"long": "114.6209089319852"
+				},
+				{
+					"name": "Padang Padang",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Coral reef",
+					"difficulty": "Advanced",
+					"quality_rating": 5,
+					"lat": "-8.808920277280976",
+					"long": "115.10251495993184"
+				},
+				{
+					"name": "Shipwrecks",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-8.66673304553792",
+					"long": "115.44135476153394"
+				},
+				{
+					"name": "Uluwatu",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Coral reef",
+					"difficulty": "Advanced",
+					"quality_rating": 5,
+					"lat": "-8.81154125809061",
+					"long": "115.09131465969902"
+				},
+				{
+					"name": "Batu Layar",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 2,
+					"lat": "-7.729302220529993",
+					"long": "108.66596554914474"
+				},
+				{
+					"name": "Bombies",
+					"type": "Beach break",
+					"direction": "Right",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 1,
+					"lat": "-8.224582699541521",
+					"long": "111.07852273976222"
+				},
+				{
+					"name": "G-Land",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Coral reef",
+					"difficulty": "Advanced",
+					"quality_rating": 5,
+					"lat": "-8.731321903438834",
+					"long": "114.34728863991928"
+				},
+				{
+					"name": "Lenggoksono",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 1,
+					"lat": "-8.372396009032256",
+					"long": "112.83405567373036"
+				},
+				{
+					"name": "Parangtritis Beach",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "-8.015835579917692",
+					"long": "110.2905242673751"
+				},
+				{
+					"name": "Batu congok",
+					"type": "Point break",
+					"direction": "Left",
+					"bottom": "Coral reef",
+					"difficulty": "Advanced",
+					"quality_rating": 1,
+					"lat": "-8.879943750273908",
+					"long": "116.1565578394078"
+				},
+				{
+					"name": "Desert Point",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Coral reef",
+					"difficulty": "Advanced",
+					"quality_rating": 5,
+					"lat": "-8.749195755655666",
+					"long": "115.82277039479648"
+				},
+				{
+					"name": "Gerupuk Inside",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Beginners",
+					"quality_rating": 1,
+					"lat": "-8.911104911334224",
+					"long": "116.35191129652014"
+				},
+				{
+					"name": "Drews Right AKA Jennys",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Coral reef",
+					"difficulty": "Advanced",
+					"quality_rating": 4,
+					"lat": "-5.049650875993736",
+					"long": "103.79522346760704"
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
 					"name": "",
 					"type": "",
 					"direction": "",
@@ -701,9 +1303,39 @@
 					"long": ""
 				}
 			]
-		}
-	],
-	"asia": [
+		},
+		{
+			"continent": 2,
+			"name": "",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		},
+		{
+			"continent": 2,
+			"name": "",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		},
 		{
 			"continent": 2,
 			"name": "",
