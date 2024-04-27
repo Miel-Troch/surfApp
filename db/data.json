@@ -1013,347 +1013,2471 @@
 					"long": "103.79522346760704"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Gusung Merpas",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 2,
+					"lat": "-4.927845072701689",
+					"long": "103.55299323304614"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Karnang Nyimbor",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-5.309659177516417",
+					"long": "103.98907214469395"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Krui Lampung Barat",
+					"type": "Point break",
+					"direction": "Right & Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Advanced",
+					"quality_rating": 1,
+					"lat": "-5.377298913263932",
+					"long": "104.05413318207833"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Krui left",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Coral reef",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "-5.426262114925391",
+					"long": "104.10073688283327"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Krui right",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Boulders",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "-5.528759741526093",
+					"long": "104.22360695861752"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Lampuuk Beach",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Rocky reef",
+					"difficulty": "Beginners",
+					"quality_rating": 1,
+					"lat": "5.488016927056128",
+					"long": "95.22534285368971"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Mandiri",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-5.254747640817739",
+					"long": "103.9767123967015"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Pantai Air Manis",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "-0.9942983848629224",
+					"long": "100.36137340934465"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Pantai Panjang Bangkulu",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-3.8072836518920203",
+					"long": "102.25885152670682"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Parkit",
+					"type": "Point break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Advanced",
+					"quality_rating": 2,
+					"lat": "-0.9026871003335403",
+					"long": "100.34257932336308"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Pasir Putih",
+					"type": "Point break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Advanced",
+					"quality_rating": 5,
+					"lat": "-0.8656844234894985",
+					"long": "100.33034054618386"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Purus",
+					"type": "Point break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Advanced",
+					"quality_rating": 1,
+					"lat": "-0.9314040591541677",
+					"long": "100.34861525609635"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Bank Vaults",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Boulders",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "-1.85102411179512",
+					"long": "99.2465796012638"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Beng Bengs",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-1.8025099968304334",
+					"long": "99.26214525502287"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Burgerworld",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-1.8395309260593464",
+					"long": "99.15094278106362"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Dylan's Right",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Coral reef",
+					"difficulty": "Advanced",
+					"quality_rating": 2,
+					"lat": "2.351763208895461",
+					"long": "96.32057393108576"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "E'bay",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-1.847241331728166",
+					"long": "99.2512633900518"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Greenbush",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Boulders",
+					"difficulty": "Advanced",
+					"quality_rating": 4,
+					"lat": "-2.7764439402742727",
+					"long": "99.9894110025373"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Hideaways",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Boulders",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "-1.8501373784108548",
+					"long": "99.30237289852907"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Hole",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Coral reef",
+					"difficulty": "Advanced",
+					"quality_rating": 3,
+					"lat": "-3.329454296404256",
+					"long": "100.42595352671583"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Jackals Simeulue",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "2.4593452247463135",
+					"long": "96.21792235293833"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Macaronis",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 5,
+					"lat": "-2.7960476396605642",
+					"long": "99.99494012760871"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Nipussi",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-1.8456204215560106",
+					"long": "99.25237647365306"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Pitstop",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-1.831550653340071",
+					"long": "99.25173474026519"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Rags Left",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Boulders",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-3.0549374527963233",
+					"long": "100.17113775983063"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Rags Right",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-3.0793434940380218",
+					"long": "100.18857003622861"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Simeulue",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "2.410781550992396",
+					"long": "96.31555741920181"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
-				},
-				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Telescopes",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-2.0756168961879364",
+					"long": "99.54316987490512"
 				}
 			]
 		},
 		{
 			"continent": 2,
-			"name": "",
+			"name": "Japan",
 			"spots": [
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Shirahama",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "34.69464362769944",
+					"long": "138.97532685336387"
+				},
+				{
+					"name": "Onjuku",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "35.18140772548381",
+					"long": "140.3559164777068"
+				},
+				{
+					"name": "Shichirigahama",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Intermediate",
+					"quality_rating": 1,
+					"lat": "35.30408973371448",
+					"long": "139.509848754795"
+				},
+				{
+					"name": "Corners",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "26.33480863977781",
+					"long": "127.74218449594473"
+				},
+				{
+					"name": "Turtles",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Rocky reef",
+					"difficulty": "Advanced",
+					"quality_rating": 4,
+					"lat": "26.35109151107452",
+					"long": "127.74070400685314"
+				},
+				{
+					"name": "Ozaki",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "33.32043776583565",
+					"long": "134.1953840560101"
 				}
 			]
 		},
 		{
 			"continent": 2,
-			"name": "",
+			"name": "Maldives",
 			"spots": [
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "BluBowl",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Coral reef",
+					"difficulty": "Advanced",
+					"quality_rating": 5,
+					"lat": "0.23420954569954433",
+					"long": "73.28251773067016"
+				},
+				{
+					"name": "Cokes",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 5,
+					"lat": "4.370904232413666",
+					"long": "73.65407299172799"
+				},
+				{
+					"name": "High Rights",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "-0.5916361833663333",
+					"long": "73.07559352906407"
+				},
+				{
+					"name": "Honkey's",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 5,
+					"lat": "4.312546867255033",
+					"long": "73.58310823401902"
+				},
+				{
+					"name": "Jailbreaks",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 5,
+					"lat": "4.3083497621057045",
+					"long": "73.57720419610371"
+				},
+				{
+					"name": "Machines",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 5,
+					"lat": "2.036440949900866",
+					"long": "73.5346240918769"
+				},
+				{
+					"name": "Pasta Point",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Coral reef",
+					"difficulty": "Advanced",
+					"quality_rating": 5,
+					"lat": "4.315495415020055",
+					"long": "73.5913033863447"
+				},
+				{
+					"name": "Sultans",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 5,
+					"lat": "4.313479465121246",
+					"long": "73.58543357715956"
+				},
+				{
+					"name": "Uthuru Muli",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "4.315190798214569",
+					"long": "72.93752177360795"
+				},
+				{
+					"name": "Yin Yang",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Coral reef",
+					"difficulty": "Advanced",
+					"quality_rating": 5,
+					"lat": "1.7990478098761298",
+					"long": "73.39715617797908"
 				}
 			]
 		},
 		{
 			"continent": 2,
-			"name": "",
+			"name": "Israel",
 			"spots": [
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "A1",
+					"type": "Beach break",
+					"direction": "Right",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 1,
+					"lat": "31.81162696657697",
+					"long": "34.63654492681629"
+				},
+				{
+					"name": "Ha'ma'aravi",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "31.852533757148798",
+					"long": "34.65858136418085"
+				},
+				{
+					"name": "Hadromi Herzelia",
+					"type": "Beach break",
+					"direction": "Right",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 2,
+					"lat": "32.1559780610564",
+					"long": "34.79348780112962"
+				},
+				{
+					"name": "Haim",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Beginners",
+					"quality_rating": 1,
+					"lat": "32.3025062623358",
+					"long": "34.83995867087948"
+				},
+				{
+					"name": "Hilton North",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "32.091538319031294",
+					"long": "34.76944810877079"
+				},
+				{
+					"name": "Neharia",
+					"type": "Beach break",
+					"direction": "Right",
+					"bottom": "Sand & Rock",
+					"difficulty": "Intermediate",
+					"quality_rating": 2,
+					"lat": "33.01187679836069",
+					"long": "35.08885453650426"
+				},
+				{
+					"name": "Palmahim The Tzinorot",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Advanced",
+					"quality_rating": 3,
+					"lat": "31.92651404493692",
+					"long": "34.69537204498451"
+				},
+				{
+					"name": "The Marina",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 2,
+					"lat": "32.16687533528334",
+					"long": "34.796299079592465"
+				}
+			]
+		},
+		{
+			"continent": 2,
+			"name": "Philippines",
+			"spots": [
+				{
+					"name": "Bacnotan",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Boulders",
+					"difficulty": "Advanced",
+					"quality_rating": 4,
+					"lat": "16.727488492099656",
+					"long": "120.34063795551346"
+				},
+				{
+					"name": "Bagasbas",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "14.13709615207065",
+					"long": "122.98404755898457"
+				},
+				{
+					"name": "Baler",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "15.756468343500691",
+					"long": "121.57333735299909"
+				},
+				{
+					"name": "Crystal Beach",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "15.018318025484739",
+					"long": "120.06277701778951"
+				},
+				{
+					"name": "Jomalig Island",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Advanced",
+					"quality_rating": 5,
+					"lat": "14.68440115335734",
+					"long": "122.41078384008294"
+				},
+				{
+					"name": "LolaSayong",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 1,
+					"lat": "12.898797303449705",
+					"long": "124.12195386039879"
+				},
+				{
+					"name": "Mona Lisa Point",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "16.647886210246188",
+					"long": "120.30905185630968"
+				},
+				{
+					"name": "San Antonio",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "18.3595939324154",
+					"long": "121.64339898435533"
+				},
+				{
+					"name": "San Juan",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "16.66014228113997",
+					"long": "120.32110374075984"
+				},
+				{
+					"name": "Dahican",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "6.927727614498132",
+					"long": "126.28205566549609"
+				},
+				{
+					"name": "Cloud 9",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Coral reef",
+					"difficulty": "Advanced",
+					"quality_rating": 5,
+					"lat": "9.813665281408063",
+					"long": "126.16580329250992"
+				},
+				{
+					"name": "The Hidden Waves Of Samar",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "10.965253984844287",
+					"long": "125.8303408029388"
+				}
+			]
+		},
+		{
+			"continent": 2,
+			"name": "South Korea",
+			"spots": [
+				{
+					"name": "Ingu beach",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "37.96783675630094",
+					"long": "128.76364230717988"
+				},
+				{
+					"name": "Jukdo",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "37.97527930129147",
+					"long": "128.76051544334922"
+				},
+				{
+					"name": "Jungmun",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "33.24459064044541",
+					"long": "126.41144111256875"
+				},
+				{
+					"name": "Malipo beach",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "36.790108946590735",
+					"long": "126.14118713309203"
+				},
+				{
+					"name": "Songjeong Beach",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "35.17835227574447",
+					"long": "129.200111441276"
+				}
+			]
+		},
+		{
+			"continent": 2,
+			"name": "Sri Lanka",
+			"spots": [
+				{
+					"name": "Arugam Bay Main Point",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "6.841794505981709",
+					"long": "81.83429451604961"
+				},
+				{
+					"name": "Deveta",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "6.035838341777526",
+					"long": "80.22306098768493"
+				},
+				{
+					"name": "Elephant Rock",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Sand & Rock",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "6.81007155409639",
+					"long": "81.82502099135634"
+				},
+				{
+					"name": "Hana's",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "5.97492555724431",
+					"long": "80.35455543805917"
+				},
+				{
+					"name": "Hikkaduwa",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Coral reef",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "6.132749708960522",
+					"long": "80.09905107651294"
+				},
+				{
+					"name": "Maddawatta",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "5.938209106176491",
+					"long": "80.57000533198494"
+				},
+				{
+					"name": "Madiha",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "5.943852665628334",
+					"long": "80.62187139718382"
+				},
+				{
+					"name": "Midigama Left",
+					"type": "Point break",
+					"direction": "Left",
+					"bottom": "Coral reef",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "5.962975852262067",
+					"long": "80.3909667106314"
+				},
+				{
+					"name": "Midigama Right",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "5.964591896964798",
+					"long": "80.38361817468683"
+				},
+				{
+					"name": "The Peak",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "5.99226403739610",
+					"long": "80.30732499741978"
+				},
+				{
+					"name": "Unawtuna",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Coral reef",
+					"difficulty": "Advanced",
+					"quality_rating": 3,
+					"lat": "6.005150605508464",
+					"long": "80.24521662259828"
+				},
+				{
+					"name": "Weligama",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "5.971208498493671",
+					"long": "80.43839769951508"
+				},
+				{
+					"name": "Whiskey Point",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "6.9051145396946305",
+					"long": "81.84539964438764"
+				}
+			]
+		},
+		{
+			"continent": 2,
+			"name": "Taiwan",
+			"spots": [
+				{
+					"name": "Jinzun",
+					"type": "Point break",
+					"direction": "Right & Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "22.954939178409397",
+					"long": "121.29571663326165"
+				},
+				{
+					"name": "Nanti",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "24.863660522650108",
+					"long": "121.83848688978445"
+				},
+				{
+					"name": "ShuangShi (Double Lion)",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "24.886920113724788",
+					"long": "121.84968132252904"
+				},
+				{
+					"name": "Smelly water",
+					"type": "Point break",
+					"direction": "Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "24.856730754010197",
+					"long": "121.83367697463572"
+				},
+				{
+					"name": "Wai'ou",
+					"type": "Point break",
+					"direction": "Right & Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "24.88208237038534",
+					"long": "121.84661469188016"
+				},
+				{
+					"name": "Wushi",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "24.87255411563301",
+					"long": "121.84277748294888"
+				}
+			]
+		},
+		{
+			"continent": 2,
+			"name": "Thailand",
+			"spots": [
+				{
+					"name": "Aow yai",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "9.723293352381761",
+					"long": "98.3922296171729"
+				},
+				{
+					"name": "Cape Pakarang",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "8.733099502274362",
+					"long": "98.2207556288976"
+				},
+				{
+					"name": "Kata Beach",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "7.822121842293968",
+					"long": "98.29562149668148"
+				},
+				{
+					"name": "Koh Lanta",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "7.616353876657766",
+					"long": "99.02852919029382"
+				},
+				{
+					"name": "Mae Ramphung Beach Rayong",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "12.593496645519311",
+					"long": "101.41247395948231"
 				}
 			]
 		}
 	],
 	"europa": [
+		{
+			"continent": 3,
+			"name": "Azores",
+			"spots": [
+				{
+					"name": "Areal Santa Barbara",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "37.81877056432853",
+					"long": "-25.544843028112062"
+				},
+				{
+					"name": "Baia das Quatro Ribeiras",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "38.796659106750084",
+					"long": "-27.18472526849388"
+				},
+				{
+					"name": "Baixa da Vila Nova",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Advanced",
+					"quality_rating": 3,
+					"lat": "38.7866585891436",
+					"long": "-27.13146387001499"
+				},
+				{
+					"name": "Fajã da Caldeira de Santo Cristo",
+					"type": "Point break",
+					"direction": "Right & Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 1,
+					"lat": "38.62084357567759",
+					"long": "-27.92205308035805"
+				},
+				{
+					"name": "Praia do Norte",
+					"type": "Point break",
+					"direction": "Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "38.61256131856226",
+					"long": "-28.760297073973287"
+				}
+			]
+		},
+		{
+			"continent": 3,
+			"name": "Canary Islands",
+			"spots": [
+				{
+					"name": "Caletta",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Advanced",
+					"quality_rating": 3,
+					"lat": "28.751953808650722",
+					"long": "-13.922081184545121"
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		},
+		{
+			"continent": 3,
+			"name": "",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		},
+		{
+			"continent": 3,
+			"name": "",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		},
+		{
+			"continent": 3,
+			"name": "",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		},
+		{
+			"continent": 3,
+			"name": "",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		},
+		{
+			"continent": 3,
+			"name": "",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		},
+		{
+			"continent": 3,
+			"name": "",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		},
+		{
+			"continent": 3,
+			"name": "",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		},
+		{
+			"continent": 3,
+			"name": "",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		},
+		{
+			"continent": 3,
+			"name": "",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		},
+		{
+			"continent": 3,
+			"name": "",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		},
+		{
+			"continent": 3,
+			"name": "",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		},
+		{
+			"continent": 3,
+			"name": "",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		},
 		{
 			"continent": 3,
 			"name": "",
