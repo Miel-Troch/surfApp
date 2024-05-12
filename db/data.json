@@ -10208,6 +10208,2900 @@
 	"southAmerica": [
 		{
 			"continent": 5,
+			"name": "Argentina",
+			"spots": [
+				{
+					"name": "La Esco",
+					"type": "Point break",
+					"direction": "Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-38.584634945599475",
+					"long": "-58.708785705806804"
+				},
+				{
+					"name": "La Larga",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-37.83348653996979",
+					"long": "-57.4927657039464"
+				},
+				{
+					"name": "Miramar",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 4,
+					"lat": "-38.27467015412207",
+					"long": "-57.8288980826609"
+				},
+				{
+					"name": "Playa Grande",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-38.02930501203593",
+					"long": "-57.529617774526635"
+				},
+				{
+					"name": "Waikiki-Punta Mogotes",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Beginners",
+					"quality_rating": 4,
+					"lat": "-38.07792539801326",
+					"long": "-57.53784472595261"
+				},
+				{
+					"name": "Rada Tilly",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "-45.927927416498434",
+					"long": "-67.54760026395466"
+				}
+			]
+		},
+		{
+			"continent": 5,
+			"name": "Brazil",
+			"spots": [
+				{
+					"name": "Pratigi",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 5,
+					"lat": "-13.537823212957072",
+					"long": "-38.93134109897619"
+				},
+				{
+					"name": "Stella",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 2,
+					"lat": "-12.936285705722517",
+					"long": "-38.324541071268506"
+				},
+				{
+					"name": "Icaraí",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-3.67022529277063",
+					"long": "-38.667797597020716"
+				},
+				{
+					"name": "Jericoacoara",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 4,
+					"lat": "-2.7945466718359175",
+					"long": "-40.52174189067904"
+				},
+				{
+					"name": "Praia do Futuro",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-3.733353101745913",
+					"long": "-38.45274666463153"
+				},
+				{
+					"name": "Praia Bela",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Boulders",
+					"difficulty": "Intermediate",
+					"quality_rating": 1,
+					"lat": "-7.349449388214065",
+					"long": "-34.7970967911804"
+				},
+				{
+					"name": "Direitas",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Sand & Rock",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-25.890646873667762",
+					"long": "-48.55960593951049"
+				},
+				{
+					"name": "Maracaipe",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Advanced",
+					"quality_rating": 1,
+					"lat": "-8.455010690047617",
+					"long": "-34.982571613204634"
+				},
+				{
+					"name": "Paiva",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 2,
+					"lat": "-8.286282071075007",
+					"long": "-34.94924820674026"
+				},
+				{
+					"name": "Arpoador",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 4,
+					"lat": "-22.99047626232774",
+					"long": "-43.1946805541362"
+				},
+				{
+					"name": "Barra da Tijuca",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-23.018681813929508",
+					"long": "-43.411274288936966"
+				},
+				{
+					"name": "Ipanema",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-22.988065886479077",
+					"long": "-43.20712522543388"
+				},
+				{
+					"name": "Itaúna",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-22.93671039900776",
+					"long": "-42.484157912444545"
+				},
+				{
+					"name": "Pecado",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Boulders",
+					"difficulty": "Beginners",
+					"quality_rating": 4,
+					"lat": "-22.41670174275898",
+					"long": "-41.816410928351885"
+				},
+				{
+					"name": "Praia da Macumba",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 4,
+					"lat": "-23.034631814593396",
+					"long": "-43.4823181918477"
+				},
+				{
+					"name": "Praia do Diabo",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-22.98924074169873",
+					"long": "-43.188127948822995"
+				},
+				{
+					"name": "Praia da Pipa",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Sand & Rock",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-6.203149749673397",
+					"long": "-35.079398675515215"
+				},
+				{
+					"name": "Imbituba",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-28.25301999193565",
+					"long": "-48.668403872930455"
+				},
+				{
+					"name": "Joaquina Beach",
+					"type": "Beach break",
+					"direction": "Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-27.639385025962056",
+					"long": "-48.45485639538938"
+				},
+				{
+					"name": "Praia Brava",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-26.947588470330032",
+					"long": "-48.62643044640291"
+				},
+				{
+					"name": "Praia Sul",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 1,
+					"lat": "-28.343745479796418",
+					"long": "-48.70655685418058"
+				},
+				{
+					"name": "Praia Vila",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 5,
+					"lat": "-28.24266178037486",
+					"long": "-48.654672626145775"
+				},
+				{
+					"name": "Maresias",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-23.79327641272315",
+					"long": "-45.56884250568192"
+				},
+				{
+					"name": "Pitangueras (Maluf)",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 4,
+					"lat": "-24.002406428130467",
+					"long": "-46.26003623010254"
+				},
+				{
+					"name": "Quebra Mar",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-23.97292202150016",
+					"long": "-46.34788482925576"
+				},
+				{
+					"name": "Tombo",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 2,
+					"lat": "-24.016086975191858",
+					"long": "-46.271686996829345"
+				}
+			]
+		},
+		{
+			"continent": 5,
+			"name": "Chile",
+			"spots": [
+				{
+					"name": "Los Molles",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Boulders",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-32.275429744311246",
+					"long": "-71.47965703740067"
+				},
+				{
+					"name": "Pichilemu",
+					"type": "Point break",
+					"direction": "Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-34.388136780217124",
+					"long": "-72.0243873712897"
+				},
+				{
+					"name": "Punta Delicada",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-37.05079347055386",
+					"long": "-73.46141468332219"
+				},
+				{
+					"name": "Santo Domingo",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "-33.665854484853384",
+					"long": "-71.64335448880797"
+				},
+				{
+					"name": "Desembocadura Rio Maullin",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-41.60103724900157",
+					"long": "-73.67204409043804"
+				},
+				{
+					"name": "Faro Corona",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-41.78228999597128",
+					"long": "-73.87748000000104"
+				},
+				{
+					"name": "Faro inio",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 1,
+					"lat": "-43.3569632649343",
+					"long": "-74.13659398132111"
+				},
+				{
+					"name": "Playa Inio",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 1,
+					"lat": "-43.368839357840386",
+					"long": "-74.1284864408314"
+				},
+				{
+					"name": "Puerto Godoy",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Sand & Rock",
+					"difficulty": "Beginners",
+					"quality_rating": 1,
+					"lat": "-41.566263134158696",
+					"long": "-73.77042308969796"
+				},
+				{
+					"name": "Punta Cuchillo",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-46.968567994864735",
+					"long": "-74.08272133885318"
+				},
+				{
+					"name": "River Link",
+					"type": "Point break",
+					"direction": "Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-43.421197012597204",
+					"long": "-73.07887549378161"
+				}
+			]
+		},
+		{
+			"continent": 5,
+			"name": "Ecuador",
+			"spots": [
+				{
+					"name": "Carola",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Advanced",
+					"quality_rating": 4,
+					"lat": "-0.8910012468605106",
+					"long": "-89.61447383660959"
+				},
+				{
+					"name": "Cerro Gallina",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-0.738004203634321",
+					"long": "-90.45732973394387"
+				},
+				{
+					"name": "La Loberia",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Advanced",
+					"quality_rating": 4,
+					"lat": "-0.9585947422011849",
+					"long": "-89.53687408234268"
+				},
+				{
+					"name": "The Point",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Boulders",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-0.7521732567782466",
+					"long": "-90.30688337665617"
+				},
+				{
+					"name": "La Rinconada",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-1.7182130026621139",
+					"long": "-80.80183631792804"
+				},
+				{
+					"name": "Ayampe",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-1.677024249914604",
+					"long": "-80.81796963803801"
+				},
+				{
+					"name": "Canoa",
+					"type": "Beach break",
+					"direction": "Right",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-0.47403788888543635",
+					"long": "-80.45700651492083"
+				}
+			]
+		},
+		{
+			"continent": 5,
+			"name": "Peru",
+			"spots": [
+				{
+					"name": "Cerro Azul",
+					"type": "Point break",
+					"direction": "Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 5,
+					"lat": "-13.025924538913308",
+					"long": "-76.48925977360018"
+				},
+				{
+					"name": "Playa Waikiki",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Boulders",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "-12.129953594482606",
+					"long": "-77.03928776274876"
+				},
+				{
+					"name": "Punta Rocas",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Boulders",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-12.35735418947035",
+					"long": "-76.81299703617253"
+				},
+				{
+					"name": "San Bartolo",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Boulders",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-12.387797234280493",
+					"long": "-76.78533356010539"
+				},
+				{
+					"name": "Villa",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Boulders",
+					"difficulty": "Advanced",
+					"quality_rating": 4,
+					"lat": "-12.220952933347597",
+					"long": "-77.0036480502004"
+				},
+				{
+					"name": "Bermejo",
+					"type": "Point break",
+					"direction": "Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 4,
+					"lat": "-10.560792155575411",
+					"long": "-77.90615760578423"
+				},
+				{
+					"name": "Chicama",
+					"type": "Point break",
+					"direction": "Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-7.701858685706105",
+					"long": "-79.44687383467844"
+				},
+				{
+					"name": "Lobitos",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-4.450388210808921",
+					"long": "-81.28960549615496"
+				},
+				{
+					"name": "Mancora",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Beginners",
+					"quality_rating": 4,
+					"lat": "-4.097623729585906",
+					"long": "-81.05532752205347"
+				},
+				{
+					"name": "Pacasmayo",
+					"type": "Point break",
+					"direction": "Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 4,
+					"lat": "-7.4103891669196145",
+					"long": "-79.58663675283087"
+				},
+				{
+					"name": "Mejia",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Boulders",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "-17.06814875785774",
+					"long": "-71.95422625970747"
+				},
+				{
+					"name": "San Gallan Island",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "",
+					"difficulty": "Advanced",
+					"quality_rating": 5,
+					"lat": "-13.853366693443968",
+					"long": "-76.45797248432575"
+				}
+			]
+		},
+		{
+			"continent": 5,
+			"name": "Uruguay",
+			"spots": [
+				{
+					"name": "La Aguada",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-34.63712660624794",
+					"long": "-54.15096734838899"
+				},
+				{
+					"name": "La Boca",
+					"type": "Rivermouth",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-34.91992841756901",
+					"long": "-54.864285968994274"
+				},
+				{
+					"name": "Playa el Emir",
+					"type": "Beach break",
+					"direction": "Right",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-34.963059300397276",
+					"long": "-54.93891110544537"
+				}
+			]
+		}
+	],
+	"oceania": [
+		{
+			"continent": 6,
+			"name": "Australia",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				},
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		},
+		{
+			"continent": 6,
 			"name": "",
 			"spots": [
 				{
@@ -10221,9 +13115,151 @@
 					"long": ""
 				}
 			]
-		}
-	],
-	"oceania": [
+		},
+		{
+			"continent": 6,
+			"name": "",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		},
+		{
+			"continent": 6,
+			"name": "",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		},
+		{
+			"continent": 6,
+			"name": "",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		},
+		{
+			"continent": 6,
+			"name": "",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		},
+		{
+			"continent": 6,
+			"name": "",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		},
+		{
+			"continent": 6,
+			"name": "",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		},
+		{
+			"continent": 6,
+			"name": "",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		},
+		{
+			"continent": 6,
+			"name": "",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		},
+		{
+			"continent": 6,
+			"name": "",
+			"spots": [
+				{
+					"name": "",
+					"type": "",
+					"direction": "",
+					"bottom": "",
+					"difficulty": "",
+					"quality_rating": 0,
+					"lat": "",
+					"long": ""
+				}
+			]
+		},
 		{
 			"continent": 6,
 			"name": "",
