@@ -12749,530 +12749,1130 @@
 					"long": "141.38908073124156"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Grinders",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Advanced",
+					"quality_rating": 4,
+					"lat": "-21.801479772468195",
+					"long": "114.17838938014404"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Jakes Point",
+					"type": "Point break",
+					"direction": "Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Advanced",
+					"quality_rating": 5,
+					"lat": "-27.73368009128182",
+					"long": "114.14528983861322"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Wish machine",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Sand & Rock",
+					"difficulty": "Advanced",
+					"quality_rating": 4,
+					"lat": "-27.706859528360102",
+					"long": "114.1576893350004"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Derrs",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-31.54161697209525",
+					"long": "115.61289849704035"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "3g",
+					"type": "Breakwater",
+					"direction": "Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-31.828728895394033",
+					"long": "115.74176252130952"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Boogerbox",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-31.871523896482394",
+					"long": "115.75143304766105"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Burn Beach",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Beginners",
+					"quality_rating": 4,
+					"lat": "-31.7310840559189",
+					"long": "115.71804955165304"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "City Beach Groyne",
+					"type": "Breakwater",
+					"direction": "Left",
+					"bottom": "Boulders",
+					"difficulty": "Intermediate"	,
+					"quality_rating": 2,
+					"lat": "-31.93627507220388",
+					"long": "115.75376873586089"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Cottesloe",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "-31.99565693909517",
+					"long": "115.7500528887322"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Leighton Beach",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 1,
+					"lat": "-32.02743251551196",
+					"long": "115.74697087018639"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Mettams Pool",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Beginners",
+					"quality_rating": 5,
+					"lat": "-31.867823221628125",
+					"long": "115.7516480703743"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Mullaloo Beach",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 4,
+					"lat": "-31.785639456952783",
+					"long": "115.73204033210862"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Scarborough Beach",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "-31.892968124378008",
+					"long": "115.75379903615004"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "The Hillarys Wedge",
+					"type": "Breakwater",
+					"direction": "Right",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-31.82781260586125",
+					"long": "115.74133242092097"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Toms",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Boulders",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-31.86097139317858",
+					"long": "115.7514370643594"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Trigg Point",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Sand & Rock",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-31.875883841041496",
+					"long": "115.74965901989407"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Cathedralls",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-32.0186854021295",
+					"long": "115.45077375202582"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Spiders",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-32.01348217122251",
+					"long": "115.47439619547296"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Strickland Bay",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Coral reef",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-32.01702934017271",
+					"long": "115.47667783278844"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Avalon",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Beginners",
+					"quality_rating": 1,
+					"lat": "-32.586289206325304",
+					"long": "115.64209824087928"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Calypso Reef",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "-32.61113377117678",
+					"long": "115.62589244509924"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Hunchie's",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-32.53484036244449",
+					"long": "115.68969088531317"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Mandurah Wedge",
+					"type": "Breakwater",
+					"direction": "Right",
+					"bottom": "Sand",
+					"difficulty": "Advanced",
+					"quality_rating": 3,
+					"lat": "-32.604754585094184",
+					"long": "115.62753755533807"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Secret Harbour",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "-32.411796831142226",
+					"long": "115.74336887155478"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Chappy's",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Sand & Rock",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-33.878897439803524",
+					"long": "121.87377634973299"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Middles",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Boulders",
+					"difficulty": "Beginners",
+					"quality_rating": 5,
+					"lat": "-34.0108993197296",
+					"long": "122.16973224719153"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Lowlands",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-34.972835114337784",
+					"long": "117.46916760354141"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Nanarup",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Sand & Rock",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-34.99822408962985",
+					"long": "118.06488799922137"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Ocean Beach",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Sand & Rock",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-35.02873067613799",
+					"long": "117.33199170286396"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Salmon Holes",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Rocky reef",
+					"difficulty": "Advanced",
+					"quality_rating": 3,
+					"lat": "-35.103427707569395",
+					"long": "117.96924112154011"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Sand Patch",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Advanced",
+					"quality_rating": 3,
+					"lat": "-35.07074278240648",
+					"long": "117.80040482460386"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Smiths Reef",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-33.66924742177719",
+					"long": "114.99799733490883"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Supertubes",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-33.65298799796592",
+					"long": "115.01991123072176"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Surfers Point",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Advanced",
+					"quality_rating": 5,
+					"lat": "-33.97698158424121",
+					"long": "114.98409305962343"
 				},
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Binningup",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-33.15088387064136",
+					"long": "115.68496070221569"
 				}
 			]
 		},
 		{
 			"continent": 6,
-			"name": "",
+			"name": "New Zealand",
 			"spots": [
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Anchor Bay",
+					"type": "Beach break",
+					"direction": "Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "-36.3685319393108",
+					"long": "174.8409996279234"
+				},
+				{
+					"name": "Army Bay Reef",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Rocky reef",
+					"difficulty": "Advanced",
+					"quality_rating": 3,
+					"lat": "-36.597878994819006",
+					"long": "174.81359218685685"
+				},
+				{
+					"name": "Orere Point",
+					"type": "Point break",
+					"direction": "Right & Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "-36.956451068817124",
+					"long": "175.2373676391976"
+				},
+				{
+					"name": "Orewa Bar",
+					"type": "Rivermouth",
+					"direction": "Right",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-36.59485158774145",
+					"long": "174.70361721192145"
+				},
+				{
+					"name": "Piha",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-36.95119250608881",
+					"long": "174.46391493200989"
+				},
+				{
+					"name": "Takapuna Reef",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-36.78247128844915",
+					"long": "174.7789343408671"
+				},
+				{
+					"name": "Cross Roads",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-37.65159739548486",
+					"long": "176.20818822719258"
+				},
+				{
+					"name": "Mount Maunganui",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-37.62963092320203",
+					"long": "176.1800218876726"
+				},
+				{
+					"name": "Ohope",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-37.96062669538935",
+					"long": "177.03424567911725"
+				},
+				{
+					"name": "Papamoa",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "-37.68856775264609",
+					"long": "176.27447165909936"
+				},
+				{
+					"name": "Pukehina Beach",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-37.78918490630352",
+					"long": "176.5320653360042"
+				},
+				{
+					"name": "Whangamata",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Boulders",
+					"difficulty": "Beginners",
+					"quality_rating": 1,
+					"lat": "-37.45764767427582",
+					"long": "175.99321787894533"
+				},
+				{
+					"name": "Makorori North",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-38.6518184200168",
+					"long": "178.12699737852364"
+				},
+				{
+					"name": "Makorori Point",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 5,
+					"lat": "-38.664031486195334",
+					"long": "178.10838369358547"
+				},
+				{
+					"name": "Outside Reef",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Boulders",
+					"difficulty": "Advanced",
+					"quality_rating": 5,
+					"lat": "-37.62785197078068",
+					"long": "178.38311550497806"
+				},
+				{
+					"name": "Roberts Road",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-38.671926658331095",
+					"long": "178.01346634304903"
+				},
+				{
+					"name": "Sponge Bay",
+					"type": "Beach break",
+					"direction": "Right",
+					"bottom": "Sand & Rock",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-38.6999824621927",
+					"long": "178.05769938509752"
+				},
+				{
+					"name": "The Pipe",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 5,
+					"lat": "-38.67322205088596",
+					"long": "178.0007690494072"
+				},
+				{
+					"name": "Wainui Beach",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-38.688288430825644",
+					"long": "178.0763604041867"
+				},
+				{
+					"name": "Kai Iwi",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "-39.88639181636298",
+					"long": "174.89625374308986"
+				},
+				{
+					"name": "North Mole, Whanganui Rivermouth",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 2,
+					"lat": "-39.94921496668026",
+					"long": "174.97895153768044"
+				},
+				{
+					"name": "South Beach",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-39.96491847158979",
+					"long": "175.01465353411564"
+				},
+				{
+					"name": "Mangawhai Beach",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-36.076227128735326",
+					"long": "174.5977770727"
+				},
+				{
+					"name": "Sandy Bay",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "-35.55553120250851",
+					"long": "174.47611345638316"
+				},
+				{
+					"name": "The Box",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Rocky reef",
+					"difficulty": "Advanced",
+					"quality_rating": 5,
+					"lat": "-35.20120491386436",
+					"long": "173.06564360033408"
+				},
+				{
+					"name": "Arawhata",
+					"type": "Beach break",
+					"direction": "Right",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-39.42056304553487",
+					"long": "173.80174877689126"
+				},
+				{
+					"name": "Back Beach",
+					"type": "Beach break",
+					"direction": "Right",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 4,
+					"lat": "-39.074364565070425",
+					"long": "174.01239292052378"
+				},
+				{
+					"name": "Fitzroy Beach",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-39.041218296618155",
+					"long": "174.09905077614118"
+				},
+				{
+					"name": "Stent Road",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Boulders",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-39.23004084300764",
+					"long": "173.77101411086792"
+				},
+				{
+					"name": "Port Waikato Sunset beach",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-37.385911923692944",
+					"long": "174.70438266271606"
+				},
+				{
+					"name": "Raglan - Manu Bay",
+					"type": "Point break",
+					"direction": "Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-37.82059978604781",
+					"long": "174.812823403428"
+				},
+				{
+					"name": "Whangamata Beach",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-37.20866302301191",
+					"long": "175.87861908297336"
+				},
+				{
+					"name": "Airport Reef",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 1,
+					"lat": "-41.33783347982649",
+					"long": "174.80825709795266"
+				},
+				{
+					"name": "Ledge",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Advanced",
+					"quality_rating": 3,
+					"lat": "-41.128180017522176",
+					"long": "174.78932109242126"
+				},
+				{
+					"name": "Subjects",
+					"type": "Point break",
+					"direction": "Right & Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Beginners",
+					"quality_rating": 1,
+					"lat": "-41.28555378761109",
+					"long": "174.80424559929952"
+				},
+				{
+					"name": "The Wall",
+					"type": "Breakwater",
+					"direction": "Right & Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-41.32906372873534",
+					"long": "174.80011860542288"
+				},
+				{
+					"name": "Uriti",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-41.136585363421545",
+					"long": "176.05122856975066"
+				},
+				{
+					"name": "Gore Bay",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-42.86863580057623",
+					"long": "173.31271619351836"
+				},
+				{
+					"name": "Waikuku",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-43.28898526015515",
+					"long": "172.72288082599715"
+				},
+				{
+					"name": "Magnet Bay",
+					"type": "Point break",
+					"direction": "Left",
+					"bottom": "Boulders",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-43.84351652193569",
+					"long": "172.74039309075818"
+				},
+				{
+					"name": "New Brighton",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-43.50599694609592",
+					"long": "172.73514020996717"
+				},
+				{
+					"name": "Scarborough",
+					"type": "Beach break",
+					"direction": "Right",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "-43.58214603931591",
+					"long": "172.77844160794925"
+				},
+				{
+					"name": "taylors",
+					"type": "Beach break",
+					"direction": "Right",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-43.6063113182125",
+					"long": "172.83154974887844"
+				},
+				{
+					"name": "Te Oka Bay",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-43.85185965597373",
+					"long": "172.783253711438"
+				},
+				{
+					"name": "Waimari Beach",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 2,
+					"lat": "-43.481916215929225",
+					"long": "172.7267884752809"
+				},
+				{
+					"name": "Kahutara",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-42.438533072478734",
+					"long": "173.58900506671358"
+				},
+				{
+					"name": "Mangamaunu",
+					"type": "Point break",
+					"direction": "Right",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 5,
+					"lat": "-42.30467351118956",
+					"long": "173.75367147322993"
+				},
+				{
+					"name": "St Clair Beach",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-45.91216856781966",
+					"long": "170.49708383161996"
+				},
+				{
+					"name": "St Kilda",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 4,
+					"lat": "-45.90972106716061",
+					"long": "170.51991536748108"
+				},
+				{
+					"name": "Curio Bay",
+					"type": "Beach break",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-46.65146796364665",
+					"long": "169.10818521593814"
 				}
 			]
 		},
 		{
 			"continent": 6,
-			"name": "",
+			"name": "American Samoa",
 			"spots": [
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Matu'u",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 2,
+					"lat": "-14.300718122020172",
+					"long": "-170.68242948264893"
 				}
 			]
 		},
 		{
 			"continent": 6,
-			"name": "",
+			"name": "Cook Islands",
 			"spots": [
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Golf Course",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Coral reef",
+					"difficulty": "Advanced",
+					"quality_rating": 2,
+					"lat": "-21.201416815401412",
+					"long": "-159.821253378985"
+				},
+				{
+					"name": "Motutapu",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Boulders",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-21.24392206366891",
+					"long": "-159.72256037996084"
 				}
 			]
 		},
 		{
 			"continent": 6,
-			"name": "",
+			"name": "Easter Island",
 			"spots": [
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Hangoa Roa",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 5,
+					"lat": "-27.153699364819023",
+					"long": "-109.44081383288476"
 				}
 			]
 		},
 		{
 			"continent": 6,
-			"name": "",
+			"name": "Fiji",
 			"spots": [
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Cloudbreak",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Coral reef",
+					"difficulty": "Advanced",
+					"quality_rating": 5,
+					"lat": "-17.88485283938462",
+					"long": "177.1858037576766"
+				},
+				{
+					"name": "Frigates Passage",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Coral reef",
+					"difficulty": "Advanced",
+					"quality_rating": 5,
+					"lat": "-18.47568872635262",
+					"long": "177.92435329668413"
+				},
+				{
+					"name": "Restaurants",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Coral reef",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-17.86513749516934",
+					"long": "177.19566745685776"
+				},
+				{
+					"name": "Wilkes Pass",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 5,
+					"lat": "-17.843221063520925",
+					"long": "177.16803362002662"
 				}
 			]
 		},
 		{
 			"continent": 6,
-			"name": "",
+			"name": "French Polynesia",
 			"spots": [
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Teahupoo",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Coral reef",
+					"difficulty": "Advanced",
+					"quality_rating": 5,
+					"lat": "-17.86603422670715",
+					"long": "-149.25514940046247"
 				}
 			]
 		},
 		{
 			"continent": 6,
-			"name": "",
+			"name": "New Caledonia",
 			"spots": [
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Gouaro",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-21.62627284533312",
+					"long": "165.44106523298024"
+				},
+				{
+					"name": "Nera left hander",
+					"type": "Rivermouth",
+					"direction": "Right & Left",
+					"bottom": "Sand",
+					"difficulty": "Beginners",
+					"quality_rating": 3,
+					"lat": "-21.62260313600956",
+					"long": "165.45908582328937"
+				},
+				{
+					"name": "Secret",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Coral reef",
+					"difficulty": "Advanced",
+					"quality_rating": 5,
+					"lat": "-21.69446845421478",
+					"long": "165.45940234216056"
+				},
+				{
+					"name": "Snorky",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-21.64230945138792",
+					"long": "165.46210203558874"
 				}
 			]
 		},
 		{
 			"continent": 6,
-			"name": "",
+			"name": "Papua New Guinea",
 			"spots": [
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Kavieng",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 5,
+					"lat": "-2.4146144119171766",
+					"long": "149.97188015644886"
+				},
+				{
+					"name": "Kiaps",
+					"type": "Reef break",
+					"direction": "Left",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-1.9549490711167765",
+					"long": "147.29384572367312"
+				},
+				{
+					"name": "Polly Pipes",
+					"type": "Rivermouth",
+					"direction": "Right & Left",
+					"bottom": "Sand & Rock",
+					"difficulty": "Advanced",
+					"quality_rating": 5,
+					"lat": "-8.599183502827131",
+					"long": "150.85709094810886"
+				},
+				{
+					"name": "Tupira Mira",
+					"type": "Reef break",
+					"direction": "Right",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-4.489180339252874",
+					"long": "145.42772121684004"
 				}
 			]
 		},
 		{
 			"continent": 6,
-			"name": "",
+			"name": "Solomon Islands",
 			"spots": [
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Dolphins",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-7.467368780074986",
+					"long": "158.33495370463595"
+				},
+				{
+					"name": "Paptura's",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Rocky reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-7.569224544186622",
+					"long": "158.7733021565296"
 				}
 			]
 		},
 		{
 			"continent": 6,
-			"name": "",
+			"name": "Tonga",
 			"spots": [
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Motels",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 4,
+					"lat": "-21.08729887745121",
+					"long": "-175.35394761723123"
 				}
 			]
 		},
 		{
 			"continent": 6,
-			"name": "",
+			"name": "Vanuatu",
 			"spots": [
 				{
-					"name": "",
-					"type": "",
-					"direction": "",
-					"bottom": "",
-					"difficulty": "",
-					"quality_rating": 0,
-					"lat": "",
-					"long": ""
+					"name": "Pango Point",
+					"type": "Reef break",
+					"direction": "Right & Left",
+					"bottom": "Coral reef",
+					"difficulty": "Intermediate",
+					"quality_rating": 3,
+					"lat": "-17.784686431754412",
+					"long": "168.28501112777624"
 				}
 			]
 		}
