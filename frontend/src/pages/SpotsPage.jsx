@@ -1,6 +1,8 @@
-import { Box, Tab, Tabs, Typography } from '@mui/material'
+import { Box, LinearProgress, Tab, Tabs, Typography } from '@mui/material'
 import { useState } from 'react'
 import { styled } from '@mui/material/styles'
+import { useQuery } from '@apollo/client'
+import { READ_CONTINENTS } from '../resources/queries'
 
 const CustomTabPanel = (props) => {
 	const { children, value, index, ...other } = props
@@ -17,6 +19,11 @@ const CustomTabPanel = (props) => {
 }
 
 const SpotsPage = () => {
+	const { loading: loadingContinents, data: continents } = useQuery(READ_CONTINENTS, {
+		fetchPolicy: 'network-only',
+		onError: (error) => console.log(error)
+	})
+
 	const [value, setValue] = useState(0)
 
 	const handleChange = (event, newValue) => {
@@ -48,36 +55,24 @@ const SpotsPage = () => {
 		}
 	}))
 
+	if (loadingContinents) {
+		return <LinearProgress />
+	}
+
 	return (
 		<Box sx={{ width: '100%' }}>
 			<Box sx={{ borderBottom: 1, borderColor: 'divider', pt: 2 }}>
 				<StyledTabs value={value} onChange={handleChange}>
-					<StyledTab label='Africa' />
-					<StyledTab label='Asia' />
-					<StyledTab label='Europe' />
-					<StyledTab label='North America' />
-					<StyledTab label='South America' />
-					<StyledTab label='Oceania' />
+					{continents.readContinents.map((continent) => (
+						<StyledTab key={continent.id} label={continent.name} />
+					))}
 				</StyledTabs>
 			</Box>
-			<CustomTabPanel value={value} index={0}>
-				Africa
-			</CustomTabPanel>
-			<CustomTabPanel value={value} index={1}>
-				Asia
-			</CustomTabPanel>
-			<CustomTabPanel value={value} index={2}>
-				Europe
-			</CustomTabPanel>
-			<CustomTabPanel value={value} index={3}>
-				North America
-			</CustomTabPanel>
-			<CustomTabPanel value={value} index={4}>
-				South America
-			</CustomTabPanel>
-			<CustomTabPanel value={value} index={5}>
-				Oceania
-			</CustomTabPanel>
+			{continents.readContinents.map((continent, index) => (
+				<CustomTabPanel key={continent.id} index={index} value={value}>
+					{continent.name}
+				</CustomTabPanel>
+			))}
 		</Box>
 	)
 }

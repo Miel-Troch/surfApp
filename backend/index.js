@@ -4,13 +4,25 @@ dotenv.config({ path: `.env.${process.env.NODE_ENV || 'development'}` })
 import express from 'express'
 import cors from 'cors'
 import cookieParser from 'cookie-parser'
+import { ApolloServer, AuthenticationError } from 'apollo-server-express'
+import { makeExecutableSchema } from '@graphql-tools/schema'
+import http from 'http'
+import https from 'https'
 
-// Dynamic import of sequelize and routes
 async function loadDependencies() {
-	const indexRoutes = await import('./routes/index.js')
+	const { sequelize } = await import('./db/Database.js')
+	const typeDefs = await import('./graphql/typeDefs.js')
+	const resolvers = await import('./graphql/resolvers.js')
 
 	const app = express()
 	const port = process.env.PORT || 3000
+
+	let server = null
+	if (process.platform !== 'win32') {
+		server = https.createServer(options, app)
+	} else {
+		server = http.createServer(app)
+	}
 
 	// Parse the CORS_ORIGINS environment variable
 	const corsOrigins = process.env.CORS_ORIGINS ? process.env.CORS_ORIGINS.split(',') : []
@@ -32,13 +44,37 @@ async function loadDependencies() {
 	app.use(cors(corsOptions))
 	app.use(express.json())
 
-	// Use all other routes, these are protected by auth middleware
-	app.use('/api', indexRoutes.default)
+	const schema = makeExecutableSchema({
+		typeDefs: typeDefs.default,
+		resolvers: resolvers.default
+	})
+
+	const apolloServer = new ApolloServer({
+		schema,
+		context: ({ req, res }) => {
+			if (req.graphQLError === 'UNAUTHENTICATED') {
+				throw new AuthenticationError('You must be logged in')
+			}
+			if (req.graphQLError === 'FORBIDDEN') {
+				throw new AuthenticationError('Access is forbidden')
+			}
+
+			return { req, res }
+		}
+	})
+
+	await apolloServer.start()
+
+	apolloServer.applyMiddleware({ app, path: '/graphql' })
 
 	const startServer = async () => {
 		try {
-			app.listen(port, () => {
-				console.log(`Server is running on port ${port}`)
+			await sequelize.authenticate()
+			console.log('✅ Sequelize: connection to the database has been established successfully.')
+
+			server.listen(port, () => {
+				console.log(`✅ Server: running on port ${port}`)
+				console.log(`✅ GraphQL: is available at ${apolloServer.graphqlPath}`)
 			})
 		} catch (error) {
 			console.error('Unable to connect to the database:', error)
@@ -46,7 +82,7 @@ async function loadDependencies() {
 		}
 	}
 
-	startServer()
+	await startServer()
 }
 
 loadDependencies()
