@@ -3,17 +3,14 @@ import { useState } from 'react'
 import { styled } from '@mui/material/styles'
 import { useQuery } from '@apollo/client'
 import { READ_CONTINENTS } from '../resources/queries'
+import Countrylist from '../components/CountryList'
 
 const CustomTabPanel = (props) => {
 	const { children, value, index, ...other } = props
 
 	return (
 		<div hidden={value !== index} id={`tabpanel-${index}`} {...other}>
-			{value === index && (
-				<Box sx={{ p: 3 }}>
-					<Typography>{children}</Typography>
-				</Box>
-			)}
+			{value === index && <Box sx={{ p: 3 }}>{children}</Box>}
 		</div>
 	)
 }
@@ -70,7 +67,7 @@ const SpotsPage = () => {
 			</Box>
 			{continents.readContinents.map((continent, index) => (
 				<CustomTabPanel key={continent.id} index={index} value={value}>
-					{continent.name}
+					<Countrylist id={continent.id} />
 				</CustomTabPanel>
 			))}
 		</Box>

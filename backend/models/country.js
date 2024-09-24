@@ -1,12 +1,16 @@
 export default function (sequelize, DataTypes) {
 	return sequelize.define(
-		'continent',
+		'country',
 		{
 			id: {
 				autoIncrement: true,
 				type: DataTypes.INTEGER,
 				allowNull: false,
 				primaryKey: true
+			},
+			continent_id: {
+				type: DataTypes.INTEGER,
+				allowNull: false
 			},
 			name: {
 				type: DataTypes.STRING,
@@ -15,12 +19,12 @@ export default function (sequelize, DataTypes) {
 		},
 		{
 			sequelize,
-			tableName: 'continent',
+			tableName: 'country',
 			schema: 'public',
 			timestamps: false,
 			indexes: [
 				{
-					name: 'continent_pkey',
+					name: 'country_pkey',
 					unique: true,
 					fields: [{ name: 'id' }]
 				}

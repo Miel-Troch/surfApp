@@ -13,12 +13,11 @@ function getSequelizeInstance() {
 	})
 }
 
-const sequelize = getSequelizeInstance();
+const sequelize = getSequelizeInstance()
 
 import continentFactory from '../models/continent.js'
+import countryFactory from '../models/country.js'
 const continent = continentFactory(sequelize, DataTypes)
+const country = countryFactory(sequelize, DataTypes)
 
-export {
-	continent,
-	sequelize
-}
+export { continent, country, sequelize }
