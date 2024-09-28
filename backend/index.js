@@ -13,6 +13,7 @@ async function loadDependencies() {
 	const { sequelize } = await import('./db/Database.js')
 	const typeDefs = await import('./graphql/typeDefs.js')
 	const resolvers = await import('./graphql/resolvers.js')
+	await import('./db/Methods.js')
 
 	const app = express()
 	const port = process.env.PORT || 3000

@@ -3,6 +3,7 @@ import { ApolloClient, ApolloProvider, InMemoryCache } from '@apollo/client'
 import Layout from './components/Layout'
 import HomePage from './pages/HomePage'
 import SpotsPage from './pages/SpotsPage'
+import SpotDetailPage from './pages/SpotDetailPage'
 import MapPage from './pages/MapPage'
 import NotFoundPage from './pages/NotFoundPage'
 import ProfilePage from './pages/ProfilePage'
@@ -21,6 +22,7 @@ export default function App() {
 					<Route path='/' element={<Layout />}>
 						<Route index element={<HomePage />} />
 						<Route path='spots' element={<SpotsPage />} />
+						<Route path='spots/:id' element={<SpotDetailPage />} />
 						<Route path='map' element={<MapPage />} />
 						<Route path='profile' element={<ProfilePage />} />
 						<Route path='settings' element={<SettingsPage />} />

@@ -1,11 +1,12 @@
 import { Continent } from './types/Continent.js'
 import { Country } from './types/Country.js'
+import { Spot } from './types/Spot.js'
 import { makeExecutableSchema } from '@graphql-tools/schema'
 
 const query = `
 type Query {
   readContinents: [Continent]
-  readCountrys(continent_id: Int!): [Country]
+  readCountrysWithSpots(continent_id: Int!): [Country]
 }
 `
 
@@ -15,7 +16,7 @@ type Mutation {
 `
 
 const typeDefs = makeExecutableSchema({
-	typeDefs: [Continent, Country, query]
+	typeDefs: [Continent, Country, Spot, query]
 })
 
 export default typeDefs

@@ -1,21 +1,14 @@
-import { Box, LinearProgress, Tab, Tabs } from '@mui/material'
+import { Box, LinearProgress, Tab, Tabs, Typography } from '@mui/material'
+import { useParams } from 'react-router-dom'
 import { useState } from 'react'
 import { styled } from '@mui/material/styles'
 import { useQuery } from '@apollo/client'
 import { READ_CONTINENTS } from '../resources/queries'
 import Countrylist from '../components/CountryList'
 
-const CustomTabPanel = (props) => {
-	const { children, value, index, ...other } = props
+const SpotDetailPage = () => {
+    const { id } = useParams()
 
-	return (
-		<div hidden={value !== index} id={`tabpanel-${index}`} {...other}>
-			{value === index && <Box sx={{ p: 3 }}>{children}</Box>}
-		</div>
-	)
-}
-
-const SpotsPage = () => {
 	const { loading: loadingContinents, data: continents } = useQuery(READ_CONTINENTS, {
 		fetchPolicy: 'network-only',
 		onError: (error) => console.log(error)
@@ -74,4 +67,4 @@ const SpotsPage = () => {
 	)
 }
 
-export default SpotsPage
+export default SpotDetailPage
