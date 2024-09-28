@@ -12,7 +12,7 @@ const Map = ({ coordinates }) => {
 	const [zoom, setZoom] = useState(10)
 
 	useEffect(() => {
-		mapboxgl.accessToken = 'pk.eyJ1IjoibWllbHQiLCJhIjoiY20xbWN4dW9kMGl3cDJxcXZncm1pM3JybiJ9.5JMs15zdAq5ndBd_25r7ew'
+		mapboxgl.accessToken = import.meta.env.VITE_MAPBOX_ACCESS_TOKEN
 		mapRef.current = new mapboxgl.Map({
 			container: mapContainerRef.current,
 			center: center,
