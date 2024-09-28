@@ -1,7 +1,8 @@
-import { Box, LinearProgress, Typography } from '@mui/material'
 import { useParams } from 'react-router-dom'
+import { Box, LinearProgress, Typography } from '@mui/material'
 import { useQuery } from '@apollo/client'
 import { READ_SPOT } from '../resources/queries'
+import Map from '../components/Map'
 
 const SpotDetailPage = () => {
 	const { id } = useParams()
@@ -27,6 +28,7 @@ const SpotDetailPage = () => {
 			<Typography>{spot.readSpot.bottom}</Typography>
 			<Typography>{spot.readSpot.difficulty}</Typography>
 			<Typography>{spot.readSpot.quality_rating}</Typography>
+			<Map coordinates={[spot.readSpot.lat, spot.readSpot.long]} />
 		</Box>
 	)
 }
