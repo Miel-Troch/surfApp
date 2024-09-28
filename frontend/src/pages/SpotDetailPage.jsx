@@ -1,68 +1,32 @@
-import { Box, LinearProgress, Tab, Tabs, Typography } from '@mui/material'
+import { Box, LinearProgress, Typography } from '@mui/material'
 import { useParams } from 'react-router-dom'
-import { useState } from 'react'
-import { styled } from '@mui/material/styles'
 import { useQuery } from '@apollo/client'
-import { READ_CONTINENTS } from '../resources/queries'
-import Countrylist from '../components/CountryList'
+import { READ_SPOT } from '../resources/queries'
 
 const SpotDetailPage = () => {
-    const { id } = useParams()
+	const { id } = useParams()
 
-	const { loading: loadingContinents, data: continents } = useQuery(READ_CONTINENTS, {
+	const { loading: loadingSpot, data: spot } = useQuery(READ_SPOT, {
+		skip: !id,
+		variables: {
+			id: Number(id)
+		},
 		fetchPolicy: 'network-only',
-		onError: (error) => console.log(error)
+		onError: (error) => console.error(error)
 	})
 
-	const [value, setValue] = useState(0)
-
-	const handleChange = (event, newValue) => {
-		setValue(newValue)
-	}
-
-	const StyledTabs = styled((props) => (
-		<Tabs {...props} TabIndicatorProps={{ children: <span className='MuiTabs-indicatorSpan' /> }} centered />
-	))(({ theme }) => ({
-		'& .MuiTabs-indicator': {
-			display: 'flex',
-			justifyContent: 'center',
-			backgroundColor: 'transparent'
-		},
-		'& .MuiTabs-indicatorSpan': {
-			maxWidth: 40,
-			width: '100%',
-			backgroundColor: theme.palette.secondary.main
-		}
-	}))
-
-	const StyledTab = styled((props) => <Tab disableRipple {...props} />)(({ theme }) => ({
-		textTransform: 'none',
-		fontSize: theme.typography.pxToRem(15),
-		marginRight: theme.spacing(1),
-		color: theme.palette.text.primary,
-		'&.Mui-selected': {
-			color: theme.palette.secondary.main
-		}
-	}))
-
-	if (loadingContinents) {
+	if (loadingSpot) {
 		return <LinearProgress />
 	}
 
 	return (
 		<Box sx={{ width: '100%' }}>
-			<Box sx={{ borderBottom: 1, borderColor: 'divider', pt: 2 }}>
-				<StyledTabs value={value} onChange={handleChange}>
-					{continents.readContinents.map((continent) => (
-						<StyledTab key={continent.id} label={continent.name} />
-					))}
-				</StyledTabs>
-			</Box>
-			{continents.readContinents.map((continent, index) => (
-				<CustomTabPanel key={continent.id} index={index} value={value}>
-					<Countrylist id={continent.id} />
-				</CustomTabPanel>
-			))}
+			<Typography>{spot.readSpot.name}</Typography>
+			<Typography>{spot.readSpot.type}</Typography>
+			<Typography>{spot.readSpot.direction}</Typography>
+			<Typography>{spot.readSpot.bottom}</Typography>
+			<Typography>{spot.readSpot.difficulty}</Typography>
+			<Typography>{spot.readSpot.quality_rating}</Typography>
 		</Box>
 	)
 }

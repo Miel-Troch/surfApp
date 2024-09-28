@@ -7,6 +7,7 @@ const query = `
 type Query {
   readContinents: [Continent]
   readCountrysWithSpots(continent_id: Int!): [Country]
+  readSpot(id: Int!): Spot
 }
 `
 

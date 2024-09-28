@@ -3,7 +3,6 @@ type Spot {
     id: Int,
     country_id: Int,
     name: String,
-    spot: Spot,
     type: String,
 	direction: String,
     bottom: String,

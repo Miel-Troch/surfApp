@@ -23,4 +23,21 @@ const READ_COUNTRYS_WITH_SPOTS = gql`
 	}
 `
 
-export { READ_CONTINENTS, READ_COUNTRYS_WITH_SPOTS }
+const READ_SPOT = gql`
+	query Query($id: Int!) {
+		readSpot(id: $id) {
+			id
+			country_id
+			name
+			type
+			direction
+			bottom
+			difficulty
+			quality_rating
+			lat
+			long
+		}
+	}
+`
+
+export { READ_CONTINENTS, READ_COUNTRYS_WITH_SPOTS, READ_SPOT }

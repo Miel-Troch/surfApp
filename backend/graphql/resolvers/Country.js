@@ -1,4 +1,4 @@
-import { sequelize, country, spot } from '../../db/Database.js'
+import { country, spot } from '../../db/Database.js'
 
 export const readCountrysWithSpots = async (_, { continent_id }, {}) => {
 	return await country.findAll({
