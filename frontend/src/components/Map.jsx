@@ -2,7 +2,6 @@ import { useRef, useEffect, useState } from 'react'
 import { Box } from '@mui/material'
 import mapboxgl from 'mapbox-gl'
 import 'mapbox-gl/dist/mapbox-gl.css'
-import '../resources/map.css'
 
 const Map = ({ coordinates }) => {
 	const mapRef = useRef()
