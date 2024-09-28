@@ -28,7 +28,7 @@ const SpotDetailPage = () => {
 			<Typography>{spot.readSpot.bottom}</Typography>
 			<Typography>{spot.readSpot.difficulty}</Typography>
 			<Typography>{spot.readSpot.quality_rating}</Typography>
-			<Map coordinates={[spot.readSpot.lat, spot.readSpot.long]} />
+			<Map coordinates={[spot.readSpot.long, spot.readSpot.lat]} />
 		</Box>
 	)
 }
